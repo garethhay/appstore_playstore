@@ -22,4 +22,6 @@ The conclusion is as per the data but the data needs further work to remove the 
 
 This is a slightly updated version introducing panda towards the end of the guided project to do some further analysis on the games genre.
 
+Will rebuild completely in panda when I have the time.
+
 Also builds on the [Playing with Matplotlib](github.com/garethhay/playing_with_matplotlib/) repo to add some graphs towards the end.
