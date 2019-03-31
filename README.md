@@ -2,6 +2,8 @@
 
 Dataquest.io Guided project.
 
+This was the first of the Guided Projects and therefore my introduction to Python. Please see my other [repos](github.com/garethhay) to see my progress. 
+
 Links to the original datasets are below:
 
 [Google Play Store dataset](https://www.kaggle.com/lava18/google-play-store-apps/home)
